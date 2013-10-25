@@ -1,7 +1,7 @@
 mwe
 ===
 
-MinimalisticWorkflowEngine (mwe) in java.
+Minimalistic Workflow Engine (mwe) in java.
 
 Intent is to create a workflow engine, with limited functionality, that should suffice for many projects
 that require simple to moderate workflow in their projects.
